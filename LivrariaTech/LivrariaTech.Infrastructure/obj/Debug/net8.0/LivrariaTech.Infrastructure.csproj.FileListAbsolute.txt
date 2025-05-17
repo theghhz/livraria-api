@@ -1,0 +1,17 @@
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/bin/Debug/net8.0/LivrariaTech.Infrastructure.deps.json
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/bin/Debug/net8.0/LivrariaTech.Infrastructure.runtimeconfig.json
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/bin/Debug/net8.0/LivrariaTech.Infrastructure.dll
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/bin/Debug/net8.0/LivrariaTech.Infrastructure.pdb
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/bin/Debug/net8.0/LivrariaTech.Domain.dll
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/bin/Debug/net8.0/LivrariaTech.Domain.pdb
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/obj/Debug/net8.0/LivrariaTech.Infrastructure.csproj.AssemblyReference.cache
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/obj/Debug/net8.0/LivrariaTech.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/obj/Debug/net8.0/LivrariaTech.Infrastructure.AssemblyInfoInputs.cache
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/obj/Debug/net8.0/LivrariaTech.Infrastructure.AssemblyInfo.cs
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/obj/Debug/net8.0/LivrariaTech.Infrastructure.csproj.CoreCompileInputs.cache
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/obj/Debug/net8.0/LivrariaTech.Infrastructure.csproj.CopyComplete
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/obj/Debug/net8.0/LivrariaTech.Infrastructure.dll
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/obj/Debug/net8.0/refint/LivrariaTech.Infrastructure.dll
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/obj/Debug/net8.0/LivrariaTech.Infrastructure.pdb
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/obj/Debug/net8.0/LivrariaTech.Infrastructure.genruntimeconfig.cache
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/obj/Debug/net8.0/ref/LivrariaTech.Infrastructure.dll

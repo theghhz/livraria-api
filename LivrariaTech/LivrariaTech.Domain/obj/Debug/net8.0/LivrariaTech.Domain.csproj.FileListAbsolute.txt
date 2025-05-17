@@ -1,0 +1,11 @@
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/bin/Debug/net8.0/LivrariaTech.Domain.deps.json
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/bin/Debug/net8.0/LivrariaTech.Domain.dll
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/bin/Debug/net8.0/LivrariaTech.Domain.pdb
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/obj/Debug/net8.0/LivrariaTech.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/obj/Debug/net8.0/LivrariaTech.Domain.AssemblyInfoInputs.cache
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/obj/Debug/net8.0/LivrariaTech.Domain.AssemblyInfo.cs
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/obj/Debug/net8.0/LivrariaTech.Domain.csproj.CoreCompileInputs.cache
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/obj/Debug/net8.0/LivrariaTech.Domain.dll
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/obj/Debug/net8.0/refint/LivrariaTech.Domain.dll
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/obj/Debug/net8.0/LivrariaTech.Domain.pdb
+/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/obj/Debug/net8.0/ref/LivrariaTech.Domain.dll

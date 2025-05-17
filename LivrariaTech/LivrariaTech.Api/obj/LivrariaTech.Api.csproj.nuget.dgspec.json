@@ -1,0 +1,422 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Api/LivrariaTech.Api.csproj": {}
+  },
+  "projects": {
+    "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Api/LivrariaTech.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Api/LivrariaTech.Api.csproj",
+        "projectName": "LivrariaTech.Api",
+        "projectPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Api/LivrariaTech.Api.csproj",
+        "packagesPath": "/home/theghhz/.nuget/packages/",
+        "outputPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/theghhz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Comunication/LivrariaTech.Comunication.csproj": {
+                "projectPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Comunication/LivrariaTech.Comunication.csproj"
+              },
+              "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/LivrariaTech.Domain.csproj": {
+                "projectPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/LivrariaTech.Domain.csproj"
+              },
+              "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Exception/LivrariaTech.Exception.csproj": {
+                "projectPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Exception/LivrariaTech.Exception.csproj"
+              },
+              "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/LivrariaTech.Infrastructure.csproj": {
+                "projectPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/LivrariaTech.Infrastructure.csproj"
+              },
+              "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.UseCases/LivrariaTech.UseCases.csproj": {
+                "projectPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.UseCases/LivrariaTech.UseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.116/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Comunication/LivrariaTech.Comunication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Comunication/LivrariaTech.Comunication.csproj",
+        "projectName": "LivrariaTech.Comunication",
+        "projectPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Comunication/LivrariaTech.Comunication.csproj",
+        "packagesPath": "/home/theghhz/.nuget/packages/",
+        "outputPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Comunication/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/theghhz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.116/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/LivrariaTech.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/LivrariaTech.Domain.csproj",
+        "projectName": "LivrariaTech.Domain",
+        "projectPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/LivrariaTech.Domain.csproj",
+        "packagesPath": "/home/theghhz/.nuget/packages/",
+        "outputPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/theghhz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.116/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Exception/LivrariaTech.Exception.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Exception/LivrariaTech.Exception.csproj",
+        "projectName": "LivrariaTech.Exception",
+        "projectPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Exception/LivrariaTech.Exception.csproj",
+        "packagesPath": "/home/theghhz/.nuget/packages/",
+        "outputPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Exception/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/theghhz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.116/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/LivrariaTech.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/LivrariaTech.Infrastructure.csproj",
+        "projectName": "LivrariaTech.Infrastructure",
+        "projectPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/LivrariaTech.Infrastructure.csproj",
+        "packagesPath": "/home/theghhz/.nuget/packages/",
+        "outputPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/theghhz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/LivrariaTech.Domain.csproj": {
+                "projectPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/LivrariaTech.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.116/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.UseCases/LivrariaTech.UseCases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.UseCases/LivrariaTech.UseCases.csproj",
+        "projectName": "LivrariaTech.UseCases",
+        "projectPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.UseCases/LivrariaTech.UseCases.csproj",
+        "packagesPath": "/home/theghhz/.nuget/packages/",
+        "outputPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.UseCases/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/theghhz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Comunication/LivrariaTech.Comunication.csproj": {
+                "projectPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Comunication/LivrariaTech.Comunication.csproj"
+              },
+              "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/LivrariaTech.Domain.csproj": {
+                "projectPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Domain/LivrariaTech.Domain.csproj"
+              },
+              "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Exception/LivrariaTech.Exception.csproj": {
+                "projectPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Exception/LivrariaTech.Exception.csproj"
+              },
+              "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/LivrariaTech.Infrastructure.csproj": {
+                "projectPath": "/home/theghhz/Área de trabalho/Estudos/LivrariaTech/LivrariaTech.Infrastructure/LivrariaTech.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.116/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
